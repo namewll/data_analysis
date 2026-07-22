@@ -2,7 +2,7 @@
 Python 数据分析实战项目集合
 
 ## 技术栈
-Python 3.x、Pandas、NumPy、Matplotlib、Pyecharts、Tableau、NLP 自然语言处理、Excel 自动化、数据可视化
+Python 3.x、Pandas、NumPy、Matplotlib、Pyecharts、Tableau、NLP 自然语言处理、Excel 自动化、数据可视化、openpyxl
 
 ## 项目内容
 自动化办公：Python 批量生成薪酬报表，替代人工 Excel 操作
